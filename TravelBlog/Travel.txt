@@ -1,0 +1,5 @@
+1) Use different font styles 
+2) Set background image for both the page and single elements on page. 
+3) Control the repetition of image with background-repeat property 
+4) Define style for links as a:link, a:active, a:hover, a:visited 
+5) Add customized cursors for links. 6) Work with layers
